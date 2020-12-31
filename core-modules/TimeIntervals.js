@@ -1,0 +1,1 @@
+setInterval(function(){console.log("I LOVE ANOUD")},2000)
